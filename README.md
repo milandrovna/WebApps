@@ -1,2 +1,2 @@
 # WebApps
-Repository for Web Application development subject
+Repository for Web Application development subject.
